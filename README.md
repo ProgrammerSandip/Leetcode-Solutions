@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
