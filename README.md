@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
