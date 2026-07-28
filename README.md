@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -134,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
