@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0283-move-zeroes](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
