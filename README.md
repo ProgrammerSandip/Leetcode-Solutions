@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
