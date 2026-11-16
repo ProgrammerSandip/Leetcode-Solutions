@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3206-alternating-groups-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
