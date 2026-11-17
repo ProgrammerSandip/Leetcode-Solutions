@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0877-stone-game) |
