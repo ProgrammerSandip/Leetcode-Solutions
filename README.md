@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0057-insert-interval) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
