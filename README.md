@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -285,10 +286,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
