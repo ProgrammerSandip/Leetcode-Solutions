@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
