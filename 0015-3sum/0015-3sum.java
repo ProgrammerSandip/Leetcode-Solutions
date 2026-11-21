@@ -1,45 +1,48 @@
+import java.util.*;
+
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        if (nums.length < 3) {
-            return new ArrayList<>();
-        }
 
-        //Sort the Array
         List<List<Integer>> result = new ArrayList<>();
+
         Arrays.sort(nums);
 
-        //Fixing one element : n1
-        for (int i = 0; i < nums.length - 2; i++) {
-            if (i != 0 && nums[i] == nums[i - 1]) {
+        for(int i = 0; i < nums.length - 2; i++) {
+
+            // Skip duplicate fixed numbers
+            if(i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-            twoSum(nums, i + 1, result, -nums[i]);
-        }
-        return result;
-    }
 
-    private void twoSum(int[] nums, int k, List<List<Integer>> result, int target) {
-        int i = k;
-        int j = nums.length - 1;
+            int left = i + 1;
+            int right = nums.length - 1;
 
-        while (i < j) {
-            if (nums[i] + nums[j] > target) {
-                j--;
-            } else if (nums[i] + nums[j] < target) {
-                i++;
-            } else {
-                result.add(Arrays.asList(-target, nums[i], nums[j]));
+            while(left < right) {
 
-                while (i < j && nums[i] == nums[i + 1]) {
-                    i++;
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if(sum < 0) {
+                    left++;
                 }
-                while (i < j && nums[j] == nums[j - 1]) {
-                    j--;
+                else if(sum > 0) {
+                    right--;
                 }
+                else {
+                    result.add(Arrays.asList(
+                        nums[i], nums[left], nums[right]
+                    ));
 
-                i++;
-                j--;
+                    left++;
+                    right--;
+
+                    // Skip duplicate left values
+                    while(left < right && nums[left] == nums[left - 1]) {
+                        left++;
+                    }
+                }
             }
         }
+
+        return result;
     }
 }
