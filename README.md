@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1510-stone-game-iv](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -311,4 +314,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ProgrammerSandip/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
